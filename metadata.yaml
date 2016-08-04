@@ -1,0 +1,40 @@
+_repo: The-Tao-Teh-King-or-the-Tao-and-its-Characteristics_216
+_version: 0.0.1
+alternative_title: Tao Te Ching
+contributor:
+  translator:
+    agent_name: Legge, James
+    alias: Li, Ya-ko
+    birthdate: 1815
+    deathdate: 1897
+    gutenberg_agent_id: '1114'
+    url: http://www.gutenberg.org/2009/agents/1114
+    wikipedia: http://en.wikipedia.org/wiki/James_Legge
+creator:
+  author:
+    agent_name: Laozi
+    aliases:
+    - Lao Tse
+    - 老子
+    - Lao Tzu
+    - Lau-tzu
+    gutenberg_agent_id: '2427'
+    url: http://www.gutenberg.org/2009/agents/2427
+    wikipedia: http://en.wikipedia.org/wiki/Lao_Zi
+description: ''
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Taoism -- Sacred books'
+- !lcc 'BL'
+- GITenberg
+title: The Tao Teh King, or the Tao and its Characteristics
+url: http://www.gutenberg.org/ebooks/216
